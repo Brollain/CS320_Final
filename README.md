@@ -1,2 +1,11 @@
 # CS320_Final
 CS320 Portfolio Addition to show my mastery of Software Test Automations and Quality Assurance. 
+
+## How can I ensure that my code, program, or software is functional and secure?
+      To help ensure that my code is functional and secure I can perform various testing techniques. Some testing techniques to test functionality include manual, unit, functional, white box, integration, system, and regression testing. Some testing techniques to employ that test non-functional aspects of the software include usability, black box, scalability, security, performance, and maintainability. By utilizing testing techniques for both functional and non-functional the software, code, or program will greatly improve in quality by identifying defects to fix which will make the code more secure and functional.
+      
+## How do I interpret user needs and incorporate them into a program?
+      User needs can be interpreted by examining similar software to determine basic functionality, or by understanding the goals of requirements rather than focusing on details of design until later. User needs will include functional methods, an easy-to-understand interface, and security. Security of and for the user will ensure that the user can not access other's information or see private methods.
+      
+## How do I approach designing software?
+    My approach to designing software begins by thoroughly examining the software requirements, and making notes about the base requirements then making a separate but connected list of assumptions. Once I understand the requirements and assumptions I create a basic UML chart to draw a rough picture of the code to be made and a manual test to ensure it is all in order. Once the UML chart is completed I write the code in the IDE using the chart as a reference. Once a method is completed I enact a quick manual test and move to the next method. When the class is done I create test cases to automatically test the code and check for defects. Once getting 80-100% coverage I move on to the next class in a similar fashion. However, if the next class utilizes the other or crosses, then it would be important to undertake integration and unit testing in particular.
